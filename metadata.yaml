@@ -1,0 +1,31 @@
+_repo: Van-het-toovervischje-b-Een-oud-sprookje-op-nieuw-verteld-en-berijmd_75574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steenhuizen, Lambertus Cornelis
+    alias: Leopold
+    birthdate: 1860
+    deathdate: 1926
+    gutenberg_agent_id: '58055'
+    url: http://www.gutenberg.org/2009/agents/58055
+    wikipedia: https://nl.wikipedia.org/wiki/Lambertus_Cornelis_Steenhuizen
+description: ''
+gutenberg_issued: '2025-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75574'
+language: nl
+pgterms:marc904: https://archive.org/details/Toovervischje
+pgterms:marc905: 20241129125914leopold
+pgterms:marc906: '1922'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aRotterdam :$bVan Nelle, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Van het toovervischje : $b Een oud sprookje op nieuw verteld en berijmd'
+url: http://www.gutenberg.org/ebooks/75574
